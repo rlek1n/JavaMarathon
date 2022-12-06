@@ -1,4 +1,5 @@
-package vehicle;
+import vehicle.Car;
+import vehicle.Motorcycle;
 
 public class Main {
     public static void main(String[] args) {
